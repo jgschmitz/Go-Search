@@ -21,3 +21,5 @@ func (siv SearchIndexView) UpdateOne(
 	_ ...*options.UpdateSearchIndexOptions,
 ) error
 ```
+See the full code examples above
+Make sure to replace placeholders like "your_database_name", "your_collection_name", and "your_connection_string" with your actual MongoDB database details.
